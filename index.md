@@ -1,12 +1,12 @@
 ---
-title: Home
+title: History Re-read
 ---
 
-# History Re-read
+# გადაკითხული ისტორია
 
-Essays on historical questions that are often misunderstood or only partially understood today.
+სტატიები ისტორიის საკითხებზე, რომლებიც არასწორად ან არასრულად არის გაგებული.
 
-## Articles
+## სტატიები
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}

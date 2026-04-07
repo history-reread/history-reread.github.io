@@ -1,3 +1,4 @@
 title: History Re-read
 description: Essays on misunderstood history
 theme: minima
+permalink: /:title/

@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* დესკტოპზე ტექსტის სიგანის კონტროლი */
+.main-content {
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+/* ტექსტის წაკითხვადობა */
+.main-content p,
+.main-content li {
+  line-height: 1.8;
+}
+
+/* ზედა ფერადი ბლოკი ოდნავ უფრო მოკლე */
+.page-header {
+  padding: 2rem 1rem;
+}
+
+/* ტელეფონზე უკეთესი წაკითხვადობა */
+@media screen and (max-width: 700px) {
+  .main-content {
+    max-width: 100%;
+    padding: 0 18px;
+  }
+
+  .main-content p,
+  .main-content li {
+    font-size: 1.12rem;
+    line-height: 1.9;
+  }
+
+  .main-content h1 {
+    font-size: 1.9rem;
+  }
+
+  .main-content h2 {
+    font-size: 1.45rem;
+  }
+}

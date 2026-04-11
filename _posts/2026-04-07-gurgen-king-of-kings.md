@@ -5,7 +5,7 @@ date: 2026-04-07 23:15:00 +0400
 author: "ანდრო ბარნოვი"
 ---
 
-![იშხნის წარწერა](/assets/Ishkhani_inscription.jpg)
+<img src="/Ishkhani_inscription.jpg" alt="იშხნის წარწერა" width="700">
 
 ***რა ვიცით ქართული ისტორიული ტრადიციით?***
 

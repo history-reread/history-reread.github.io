@@ -5,7 +5,7 @@ date: 2026-04-07 23:15:00 +0400
 author: "ანდრო ბარნოვი"
 ---
 
-![Ishkhani_inscription](/assets/gurgen.jpg)
+![იშხნის წარწერა](/assets/Ishkhani_inscription.jpg)
 
 ***რა ვიცით ქართული ისტორიული ტრადიციით?***
 
